@@ -1,2 +1,2 @@
 # LDT Pardubice box
-Simple parametrized box with log of ldtpardubice.cz
+Simple parametrized box with logo of ldtpardubice.cz
